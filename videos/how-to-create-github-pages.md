@@ -1,3 +1,3 @@
 ## How to Create a GitHub Pages Site
 
-![Click Here To Watch The Video!](./videos/final/githubpagestutorial.mp4) 
+![Video](https://semiclickbait.github.io/LucaTechTips/files/githubpagestutorial.mp4) 
