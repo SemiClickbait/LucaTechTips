@@ -7,9 +7,9 @@ Check back here daily for new tutorials on the greatest pieces of technology.
 
 We love to help other people with technology. We make these videos to help support people who are not "trained" in technology use.
 
-### Other Products We Offer
+### Contact Us
 
-GitHub Hosting, File/Project Hosting, and SSL Certificate Hosting.
+```semiclickbait@gmail.com (E-Mail)```
 
 ------
 
